@@ -1,1 +1,2 @@
-Hello, this is a text file. 
+Hello, this is a text file.
+I've cloned the repotory. 
